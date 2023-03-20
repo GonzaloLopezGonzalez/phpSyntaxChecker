@@ -61,6 +61,3 @@ class phpSyntaxChecker
         }
     }
 }
-
-$syntaxAnalyser = new phpSyntaxChecker();
-$syntaxAnalyser->analyzePhpFilesSyntax();
